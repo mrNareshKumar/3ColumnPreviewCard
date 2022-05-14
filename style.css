@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #ffffff;
+    background-size: cover;
+    height: 100vh;
+}
+
+.card-container {
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.card1 {
+    background-color: hsl(31, 77%, 52%);
+    background-size: cover;
+    padding: 50px;
+    border-radius: 5px;
+    height: 500px;
+    width: 250px;
+}
+
+.card2 {
+    background-color: hsl(184, 100%, 22%);
+    background-size: cover;
+    padding: 50px;
+    height: 500px;
+    width: 250px;
+}
+
+.card3 {
+    background-color: hsl(179, 100%, 13%);
+    background-size: cover;
+    padding: 50px;
+    height: 500px;
+    width: 250px;
+}
+
+.heading {
+    font-family: 'Big Shoulders Display', cursive;
+    ;
+    font-size: 35px;
+    color: hsl(0, 0%, 95%);
+    padding-top: 10px;
+    padding: 5px;
+}
+
+.description {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+    color: hsla(0, 0%, 100%, 0.75);
+    padding-bottom: 15px;
+    padding: 5px;
+}
+
+.button {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 14px;
+    background-color: hsl(0, 0%, 95%);
+    height: 40px;
+    width: 120px;
+    border-radius: 20px;
+    border-width: 0px;
+    padding: 5px;
+    margin-top: 20px;
+}
+
+.btn-color1 {
+    color: hsl(31, 77%, 52%);
+}
+
+.btn-color2 {
+    color: hsl(184, 100%, 22%);
+}
+
+.btn-color3 {
+    color: hsl(179, 100%, 13%);
+}
+
+.footer-text {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+    color: grey;
+    text-align: center;
+}
+
+.margin1 {
+    margin-top: 120px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
